@@ -28,6 +28,11 @@ instructor - Kuba Wąsikowski) - in progress
 * Figma UI/UX Design Essentials (Udemy, instructor -
 Daniel Scott) - done
 
+### YouTube Courses
+* Kurs testowanie oprogramowania - **Rafał Podraza**
+* Kurs SQL - **Kanał o wszystkim**
+* Postman Beginner's Course - API Testing - **freeCodeCamp.org**
+
 ## ISTQB
 
 * ISTQB Certifed Tester **Foundation Level** - still learning
@@ -35,6 +40,8 @@ Daniel Scott) - done
 ## Technical books read
 
 ## Tester's groups
+
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
 
 ## Blogs, webs
 
