@@ -4,12 +4,12 @@
 
 ## Tools
 
-* **Jira**
-* **Postman**
-* **PicPick, Sharex**
-* **TestLink** 
-* **Github**
-* **MS Office**
+* Jira
+* Postman
+* PicPick, Sharex
+* TestLink
+* Github
+* MS Office
 
 ## Tech skills
  
