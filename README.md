@@ -39,7 +39,7 @@ Daniel Scott) - done
 
 * ISTQB Certifed Tester **Foundation Level** - still learning
 
-## Technical books read
+<!-- ## Technical books read -->
 
 ## Tester's groups
 
