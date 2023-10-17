@@ -11,6 +11,11 @@
 * **Github**
 
 ## Tech skills
+ 
+* **SQL**
+* SQL
+*
+*
 
 ## Courses
 
