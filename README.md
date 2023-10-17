@@ -9,6 +9,7 @@
 * **PicPick, Sharex**
 * **TestLink** 
 * **Github**
+* **MS Office**
 
 ## Tech skills
  
