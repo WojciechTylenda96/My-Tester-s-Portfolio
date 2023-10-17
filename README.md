@@ -57,4 +57,4 @@ Daniel Scott) - done
 
 ## My test documentation
 
-## My projects
+<!-- ## My projects -->
