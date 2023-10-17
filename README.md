@@ -49,6 +49,7 @@ Daniel Scott) - done
 ## Blogs, webs
 
 * [testerzy.pl](https://testerzy.pl/)
+* [testuj.pl](https://testuj.pl/blog)
 
 ## Webinars
 
