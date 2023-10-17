@@ -28,7 +28,7 @@ instructor - Kuba Wąsikowski) - in progress
 * Figma UI/UX Design Essentials (Udemy, instructor -
 Daniel Scott) - done
 
-### YouTube Courses
+### YouTube
 * Kurs testowanie oprogramowania - **Rafał Podraza**
 * Kurs SQL - **Kanał o wszystkim**
 * Postman Beginner's Course - API Testing - **freeCodeCamp.org**
