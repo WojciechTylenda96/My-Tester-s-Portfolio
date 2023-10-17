@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Wojciech Tylenda. In the past, I worked physically most of the time. A few years ago I realized that I enjoyed striving for perfection in certain small things. Additionally, just looking for imperfections in order to eliminate or improve them also began to satisfy me. I started getting interested in software testing almost a year ago. Week by week, I started to like it more and more. For about 6 months, I have been constantly acquiring new skills in this field. My goal is to be. My goal is to become a software tester. First manual, and then over time I want to develop in test automation.
+My name is Wojciech Tylenda. In the past, I worked physically most of the time. A few years ago I realized that I enjoyed striving for perfection in certain small things. Additionally, just looking for imperfections in order to eliminate or improve them also began to satisfy me. I started getting interested in software testing almost a year ago. Week by week, I started to like it more and more. For about 6 months, I have been constantly acquiring new skills in this field. My goal is to become a software tester. First manual, and then over time I want to develop in test automation.
 
 ## Tools
 
@@ -33,7 +33,7 @@ Daniel Scott) - done
 ### YouTube
 * Kurs testowanie oprogramowania - [Rafał Podraza](https://www.youtube.com/@TechnikaProgramowania)
 * Kurs SQL - [Kanał o wszystkim](https://www.youtube.com/@KoW)
-* Postman Beginner's Course - API Testing - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
+* Postman Beginner's Course - API Testing - [freeCodeCamp.org](https://www.youtube.com/@freecodecampw)
 
 ## ISTQB
 
