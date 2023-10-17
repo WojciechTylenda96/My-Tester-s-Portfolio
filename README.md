@@ -31,9 +31,9 @@ instructor - Kuba Wąsikowski) - in progress
 Daniel Scott) - done
 
 ### YouTube
-* Kurs testowanie oprogramowania - **Rafał Podraza**
-* Kurs SQL - **Kanał o wszystkim**
-* Postman Beginner's Course - API Testing - **freeCodeCamp.org**
+* Kurs testowanie oprogramowania - [Rafał Podraza](https://www.youtube.com/@TechnikaProgramowania)
+* Kurs SQL - [Kanał o wszystkim](https://www.youtube.com/@KoW)
+* Postman Beginner's Course - API Testing - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
 
 ## ISTQB
 
