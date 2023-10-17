@@ -4,18 +4,17 @@
 
 ## Tools
 
-* **Jira** - reporting bugs
-* **Postman** - testing REST API
-* **PicPick, Sharex** - screen capture softwares
-* **TestLink** - creating test cases
+* **Jira**
+* **Postman**
+* **PicPick, Sharex**
+* **TestLink** 
 * **Github**
 
 ## Tech skills
  
 * **SQL**
-* SQL
-*
-*
+* **DevTools**
+* 
 
 ## Courses
 
