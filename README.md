@@ -23,6 +23,15 @@
 
 ## Courses
 
+* Programming in JavaScript from Zero to Master (Udemy,
+instructor - Kuba Wąsikowski) - in progress
+* Figma UI/UX Design Essentials (Udemy, instructor -
+Daniel Scott) - done
+
+## ISTQB
+
+* ISTQB Certifed Tester **Foundation Level** - still learning
+
 ## Technical books read
 
 ## Tester's groups
