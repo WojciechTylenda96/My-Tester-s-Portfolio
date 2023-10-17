@@ -2,6 +2,12 @@
 
 ## About Me
 
+I am very ambitious and ready to gain new experiences and new skills. I am
+a person who is learning very quickly and always trying to optimize the way
+of work. I know how to organize my time and stick to the plan. I am able to
+handle multiple tasks on a daily basis. I have experience in working as part
+of a team and individually.
+
 ## Tools
 
 * Jira
