@@ -2,18 +2,18 @@
 
 # About Me
 
-#Known tools and softwares
+# Known tools and softwares
 
-#Courses
+# Courses
 
-#Technical books read
+# Technical books read
 
-#Tester's groups
+# Tester's groups
 
-#Blogs, webs
+# Blogs, webs
 
-#Webinars
+# Webinars
 
-#My Test Documentation
+# My test documentation
 
-#My projects
+# My projects
