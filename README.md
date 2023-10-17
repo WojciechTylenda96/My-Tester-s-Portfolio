@@ -40,6 +40,9 @@ Daniel Scott) - done
 
 ## Webinars
 
+* QA maraton GoIT
+* Bezpłatne Szkolenie Online - Jak Zostać Testerem Oprogramowania (Marek Koszałka)
+
 ## My test documentation
 
 ## My projects
