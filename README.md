@@ -13,13 +13,13 @@
 
 ## Tech skills
  
-* **SQL**
-* **DevTools**
-* **JavaScript**
-* **API basics**
-* **Software testing**
-* **Reporting bugs**
-* **Creating test cases**
+* SQL
+* DevTools
+* JavaScript
+* API basics
+* Software testing
+* Reporting bugs
+* Creating test cases
 
 ## Courses
 
