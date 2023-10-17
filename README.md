@@ -48,6 +48,7 @@ Daniel Scott) - done
 ## Tester's groups
 
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 
 ## Blogs, webs
 
