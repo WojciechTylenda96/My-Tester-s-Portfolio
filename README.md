@@ -48,6 +48,8 @@ Daniel Scott) - done
 
 ## Blogs, webs
 
+* [testerzy.pl](https://testerzy.pl/)
+
 ## Webinars
 
 * QA maraton GoIT
