@@ -6,7 +6,8 @@
 
 * **Jira** - Issue tracking and project management tool for developers
 * **Postman** - Testing tool for REST API
-* **PicPick** - Sharex - Screen capture softwares
+* **PicPick, Sharex** - Screen capture softwares
+* **TestLink** - 
 * **Github**
 
 ## Tech skills
