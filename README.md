@@ -18,6 +18,7 @@ My name is Wojciech Tylenda. In the past, I worked physically most of the time. 
 * SQL
 * DevTools
 * JavaScript
+* HTML/CSS
 * API basics
 * Software testing
 * Reporting bugs
