@@ -59,4 +59,8 @@ Daniel Scott) - done
 
 ## My test documentation
 
+### Bugs reports
+
+* [Swag Labs bugs](https://docs.google.com/spreadsheets/d/1mMQtqBtvmJjLIvoyQiuIwWJMKdoI3nUGkJ5UxMWWhw0/edit?usp=sharing)
+
 <!-- ## My projects -->
