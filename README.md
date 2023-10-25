@@ -24,6 +24,13 @@ My name is Wojciech Tylenda. In the past, I worked physically most of the time. 
 * Reporting bugs
 * Creating test cases
 
+## My test documentation
+
+### Bugs reports
+
+* [Swag Labs bugs](https://docs.google.com/spreadsheets/d/1mMQtqBtvmJjLIvoyQiuIwWJMKdoI3nUGkJ5UxMWWhw0/edit?usp=sharing)
+
+<!-- ## My projects -->
 ## Courses
 
 * Programming in JavaScript from Zero to Master (Udemy,
@@ -57,10 +64,3 @@ Daniel Scott) - done
 * QA maraton GoIT
 * Bezpłatne Szkolenie Online - Jak Zostać Testerem Oprogramowania (Marek Koszałka)
 
-## My test documentation
-
-### Bugs reports
-
-* [Swag Labs bugs](https://docs.google.com/spreadsheets/d/1mMQtqBtvmJjLIvoyQiuIwWJMKdoI3nUGkJ5UxMWWhw0/edit?usp=sharing)
-
-<!-- ## My projects -->
