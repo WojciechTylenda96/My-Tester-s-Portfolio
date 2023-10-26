@@ -58,6 +58,7 @@ Daniel Scott) - done
 
 * [testerzy.pl](https://testerzy.pl/)
 * [testuj.pl](https://testuj.pl/blog)
+* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
 
 ## Webinars
 
