@@ -30,6 +30,10 @@ My name is Wojciech Tylenda. In the past, I worked physically most of the time. 
 
 * [Swag Labs bugs](https://docs.google.com/spreadsheets/d/1mMQtqBtvmJjLIvoyQiuIwWJMKdoI3nUGkJ5UxMWWhw0/edit?usp=sharing)
 
+### Test cases
+
+* [Test cases #1](https://docs.google.com/spreadsheets/d/1_1Zo0mHJhMqZuTlAoTYoCuh_dpzarH0JIRizFOnBJS0/edit?usp=sharing)
+
 <!-- ## My projects -->
 ## Courses
 
