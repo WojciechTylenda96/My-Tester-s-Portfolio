@@ -23,6 +23,7 @@ My name is Wojciech Tylenda. In the past, I worked physically most of the time. 
 * Software testing
 * Reporting bugs
 * Creating test cases
+* Analytical thinking
 
 ## My test documentation
 
