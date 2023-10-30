@@ -28,7 +28,7 @@ My name is Wojciech Tylenda. In the past, I worked physically most of the time. 
 
 ### Bugs reports
 
-* [Swag Labs bugs](https://docs.google.com/spreadsheets/d/1mMQtqBtvmJjLIvoyQiuIwWJMKdoI3nUGkJ5UxMWWhw0/edit?usp=sharing)
+* [Bugs reports #1](https://docs.google.com/spreadsheets/d/1mMQtqBtvmJjLIvoyQiuIwWJMKdoI3nUGkJ5UxMWWhw0/edit?usp=sharing)
 
 ### Test cases
 
