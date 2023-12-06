@@ -30,6 +30,7 @@ My name is Wojciech Tylenda. In the past, I worked physically most of the time. 
 ### Bugs reports
 
 * [Bugs reports #1](https://docs.google.com/spreadsheets/d/1mMQtqBtvmJjLIvoyQiuIwWJMKdoI3nUGkJ5UxMWWhw0/edit?usp=sharing)
+* [Bugs reports #2](https://docs.google.com/spreadsheets/d/1RfpxjGCkV9oTkxE4rwfFYdFl0TSIRzPVkFfuFSYIi8E/edit?usp=sharing)
 
 ### Test cases
 
