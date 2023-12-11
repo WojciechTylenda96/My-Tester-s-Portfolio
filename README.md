@@ -52,7 +52,7 @@ Daniel Scott) - done
 
 ## ISTQB
 
-* ISTQB Certifed Tester - **Foundation Level** - known
+* ISTQB Certifed Tester - **Foundation Level** - knowledge
 
 <!-- ## Technical books read -->
 
