@@ -8,6 +8,8 @@ My name is Wojciech Tylenda. In the past, I worked physically most of the time. 
 
 * Jira
 * Postman
+* Cypress
+* Visual Studio Code
 * PicPick, Sharex
 * TestLink
 * Github
@@ -16,10 +18,11 @@ My name is Wojciech Tylenda. In the past, I worked physically most of the time. 
 ## Tech skills
  
 * SQL
-* DevTools
 * JavaScript
 * HTML/CSS
 * API basics
+* DevTools
+* Automatic tests
 * Software testing
 * Reporting bugs
 * Creating test cases
