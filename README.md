@@ -42,7 +42,7 @@ My name is Wojciech Tylenda. In the past, I worked physically most of the time. 
 
 ### My automatic tests
 
-* [Automatic tests](https://github.com/WojciechTylenda96/Cypress-tests.git)
+* [Automatic tests](https://github.com/WojciechTylenda96/My-Cypress-Tests/tree/main/Cypress%20tests)
 
 <!-- ## My projects -->
 ## Courses
