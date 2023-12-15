@@ -47,10 +47,8 @@ My name is Wojciech Tylenda. In the past, I worked physically most of the time. 
 <!-- ## My projects -->
 ## Courses
 
-* Programming in JavaScript from Zero to Master (Udemy,
-instructor - Kuba Wąsikowski) - in progress
-* Figma UI/UX Design Essentials (Udemy, instructor -
-Daniel Scott) - done
+* Programming in JavaScript from Zero to Master (Kuba Wąsikowski) - in progress
+* Figma UI/UX Design Essentials (Daniel Scott) - done
 
 ### YouTube
 * Kurs testowanie oprogramowania - [Rafał Podraza](https://www.youtube.com/@TechnikaProgramowania)
