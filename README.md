@@ -53,7 +53,7 @@ My name is Wojciech Tylenda. In the past, I worked physically most of the time. 
 ### YouTube
 * Kurs testowanie oprogramowania - [Rafał Podraza](https://www.youtube.com/@TechnikaProgramowania)
 * Kurs SQL - [Kanał o wszystkim](https://www.youtube.com/@KoW)
-* Postman Beginner's Course - API Testing - [freeCodeCamp.org](https://www.youtube.com/@freecodecampw)
+* Postman Beginner's Course - API Testing - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
 
 ## ISTQB
 
