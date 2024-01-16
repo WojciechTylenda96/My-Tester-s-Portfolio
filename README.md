@@ -15,7 +15,7 @@ My name is Wojciech Tylenda. In the past, I worked physically most of the time. 
 * Github
 * MS Office
 
-## Tech skills
+## Skills
  
 * SQL
 * JavaScript
