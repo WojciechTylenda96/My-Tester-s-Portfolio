@@ -27,6 +27,7 @@ My name is Wojciech Tylenda. In the past, I worked physically most of the time. 
 * Reporting bugs
 * Creating test cases
 * Analytical thinking
+* English B2
 
 ## My test documentation
 
