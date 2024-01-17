@@ -13,7 +13,7 @@ My name is Wojciech Tylenda. In the past, I worked physically most of the time. 
 * PicPick, Sharex
 * TestLink
 * Github
-* MS Office
+* MS Office (Excel, Word, PowerPoint etc.)
 
 ## Skills
  
